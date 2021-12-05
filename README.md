@@ -25,3 +25,6 @@ Hyper parameters can be tuned to modify results.   Any runs with less than 1000 
 In each iteration the model is loaded and executed with three different loss functions. 
 
 Each iterations will check a tempratrure value for simulated annealing.  If the a random value is below the temprature threshold a random result is chosen, otherwise the lowest loss is used. 
+
+
+In addition to the code, three images are included to demonstrate the results for a traditional balanced GAN, traditional imbalanced GAN and the results from this project. 
